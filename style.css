@@ -1,0 +1,32 @@
+*{
+    margin: 0;;
+    padding: 1px;;
+}
+
+header{
+    background-color: royalblue;
+    background-image: url(img/pattern.png);
+    
+}
+
+
+img{
+    
+}
+
+
+h4{
+    color: gray;
+}
+
+
+.testo{
+    color: gray;
+}
+
+#testo_colorato{
+
+    color: lightskyblue;
+}
+
+
