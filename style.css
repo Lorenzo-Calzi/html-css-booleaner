@@ -1,32 +1,49 @@
 *{
-    margin: 0;;
-    padding: 1px;;
+    margin: 0;
+    padding: 1px;  
 }
 
 header{
     background-color: royalblue;
-    background-image: url(img/pattern.png);
-    
+    background-image: url(img/pattern.png);   
+    height: 300px;
 }
 
 
-img{
-    
+.spazio{
+    margin-bottom: 20px;
 }
 
+#foto{
+    height: 100px; 
+    margin-top: 200px;
+}
 
 h4{
     color: gray;
 }
 
-
 .testo{
     color: gray;
 }
 
-#testo_colorato{
+#testo_azzurro{
 
     color: lightskyblue;
 }
+
+#sfondo_colorato{
+    background-color: yellow;
+}
+
+.elenco{
+    padding-left: 18px;
+}
+
+
+
+
+
+
 
 
