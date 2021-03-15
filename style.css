@@ -14,6 +14,10 @@ header{
     margin-bottom: 20px;
 }
 
+.spazio.footer{
+    margin-bottom: 10px;
+}
+
 #foto{
     height: 100px; 
     margin-top: 200px;
@@ -32,16 +36,27 @@ h4{
     color: lightskyblue;
 }
 
-#sfondo_colorato{
-    background-color: yellow;
-}
-
 .elenco{
     padding-left: 18px;
 }
 
+th, td{
+    margin: 60px;
+    padding: 15px;
+}
 
+th{
+    text-align: left;
+    background-color: steelblue;
+}
 
+#riga_azzurra{
+    background-color: lightskyblue;
+}
+
+.sfondo_colorato{
+    background-color:yellow;
+}
 
 
 
