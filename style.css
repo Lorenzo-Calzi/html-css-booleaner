@@ -22,7 +22,7 @@ header{
     margin-top: 200px;
 }
 
-h4{
+h5{
     color: gray;
 }
 
@@ -31,8 +31,11 @@ h4{
 }
 
 #testo_azzurro{
-
     color: lightskyblue;
+}
+
+.descrizione{
+    font-size: 13px;
 }
 
 .elenco{
@@ -40,11 +43,18 @@ h4{
     margin-bottom: 20px;
 }
 
+.sfondo_colorato{
+    background-color:yellow;
+}
+
 table{
     border-collapse: collapse;
-    width: 100%;
-    height: auto;
-    table-layout: fixed;  
+    margin: 40px 0;
+    text-align: left;
+}
+
+.wide-column{
+    width: 50%;
 }
 
 thead{
@@ -59,18 +69,13 @@ th,td{
 }
 
 th{
-    text-align: left;
     background-color: steelblue;
-  
 }
 
 #riga_azzurra{
     background-color: lightskyblue;
 }
 
-.sfondo_colorato{
-    background-color:yellow;
-}
 
 
 
